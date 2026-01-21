@@ -4,3 +4,4 @@ langchain-community
 langchain-pinecone
 pinecone-client
 ollama
+python-dotenv
